@@ -1,6 +1,5 @@
 # Kodluyoruz Ilk Repo
 
-# Kodluyoruz Ilk Repo
 
 Bu repo Markdown örneğini içerir.
 
